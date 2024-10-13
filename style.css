@@ -1,0 +1,9 @@
+.container .content p{
+	color:Orange;
+}
+.container .main p{
+	color:red;
+}
+.container .content p:nth-child(1){
+	color:Blue;
+}
